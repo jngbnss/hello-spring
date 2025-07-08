@@ -1,0 +1,5 @@
+git add .
+git commit -m "노트북 깃 설정 완료"
+git push
+
+git pull origin main
