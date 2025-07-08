@@ -1,5 +1,6 @@
+git pull origin main
+
 git add .
-git commit -m "노트북 깃 설정 완료"
+git commit -m "View 환경설정"
 git push
 
-git pull origin main
