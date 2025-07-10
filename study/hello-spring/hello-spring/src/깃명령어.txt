@@ -1,6 +1,6 @@
 git pull origin main
 
 git add .
-git commit -m "회원 서비스 개발"
+git commit -m "회원 리포지터리 테스트 부터"
 git push
 
