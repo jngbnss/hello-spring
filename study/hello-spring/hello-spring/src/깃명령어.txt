@@ -1,6 +1,6 @@
 git pull origin main
 
 git add .
-git commit -m "컴포넌트 진행하기"
+git commit -m "스프링 빈 설정 완료"
 git push
 
