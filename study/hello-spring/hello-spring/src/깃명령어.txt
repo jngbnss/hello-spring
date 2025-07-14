@@ -1,6 +1,6 @@
 git pull origin main
 
 git add .
-git commit -m "스프링 빈 설정 완료"
+git commit -m "회원 웹 기능 - 등록"
 git push
 
