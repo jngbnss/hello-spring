@@ -1,6 +1,6 @@
 git pull origin main
 
 git add .
-git commit -m "회원 웹 기능 - 조회"
+git commit -m "순수 jdbc 및 통합 테스트 "
 git push
 
